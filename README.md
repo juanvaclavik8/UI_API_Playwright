@@ -9,9 +9,9 @@ I wrote some sample UI and API tests in C#. Solution contains two class files wi
   - on the Home page, click on the Load Delay and verify the page will get loaded in reasonable time
   - from the Home page, navigate to the Progress Bar page and follow the instructions specified in the Scenario section
 * API
-- verify the response returned expected count of teams (32 in total)
-- verify the oldest team is Montreal Canadiens
-- verify there's a city with more than 1 team and verify names of those teams
-- verify there are 8 teams in the Metropolitan division and verify them by their names
+  - verify the response returned expected count of teams (32 in total)
+  - verify the oldest team is Montreal Canadiens
+  - verify there's a city with more than 1 team and verify names of those teams
+  - verify there are 8 teams in the Metropolitan division and verify them by their names
 
 Solution can be pulled and run in VS2022.
